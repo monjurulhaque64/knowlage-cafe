@@ -1,0 +1,52 @@
+[
+    {
+      "id": "6425c4984478f2946e3c940b",
+      "authorName": "Wendy Dessler",
+      "blogTitle": "Programming Is Learned Faster With These 7 Tips",
+      "image": "https://myprogrammingblog.com/wp-content/uploads/2016/11/wordpress-ab-testing-plugin-380x228.jpg",
+      "coverImage": "https://myprogrammingblog.com/wp-content/uploads/2016/11/wordpress-ab-testing-plugin-380x228.jpg",
+      "authorImage": "data:image/jpeg;base64,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",
+      "readTime": 5,
+      "publishDate": "Nov 22(4 Days ago)"
+    },
+    {
+      "id": "6425c498eae803d7352cc22d",
+      "authorName": "Sasha Mayo",
+      "blogTitle": "Tips for Landing Your Initial Position as a Self-Taught Programmer",
+      "image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1206&q=80",
+      "coverImage": "http://placehold.it/32x32",
+      "authorImage": "https://images.unsplash.com/photo-1513152697235-fe74c283646a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1248&q=80",
+      "readTime": 10,
+      "publishDate":"Mar 14(4 Days ago)"
+    },
+    {
+      "id": "6425c4982041be8f0ae9a57a",
+      "authorName": "Enid Robinson",
+      "blogTitle": "Strategies for Securing Your First Job as a Programmer Without Formal Training",
+      "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "coverImage": "http://placehold.it/32x32",
+      "authorImage": "https://images.unsplash.com/photo-1630208232589-e42b29428b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=469&q=80",
+      "readTime": 10,
+      "publishDate":"Mar 14(4 Days ago)"
+    },
+    {
+      "id": "6425c49894dcb63317296333",
+      "authorName": " Anatoly Spektor",
+      "blogTitle": "How to Create Bootstrap Login Form with PHP Validation",
+      "image": "https://myprogrammingblog.com/wp-content/uploads/2016/10/create_form_background_screenshot-768x371.jpg",
+      "coverImage": "http://placehold.it/32x32",
+      "authorImage": "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80",
+      "readTime": 7,
+      "publishDate":"Mar 14(4 Days ago)"
+    },
+    {
+      "id": "6425c49894dcb63317296222",
+      "authorName": "Katie Waller",
+      "blogTitle": "Ways to Kickstart Your Career as a Self-Taught Programmer and Land Your First Job",
+      "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80",
+      "coverImage": "http://placehold.it/32x32",
+      "authorImage": "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80",
+      "readTime": 5,
+      "publishDate":"Mar 14(4 Days ago)"
+    }
+  ]
